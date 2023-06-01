@@ -74,7 +74,30 @@
     <loc>https://richard-cokecola.github.io/re-richard/categories/%E8%B5%9A%E9%92%B1/</loc>
     <lastmod>2023-05-31T13:10:57+08:00</lastmod>
   </url><url>
+    <loc>https://richard-cokecola.github.io/re-richard/about/about/</loc>
+    <lastmod>2021-06-03T16:44:06+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://richard-cokecola.github.io/re-richard/en/about/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://richard-cokecola.github.io/re-richard/about/about/"
+                />
+  </url><url>
     <loc>https://richard-cokecola.github.io/re-richard/about/</loc>
     <lastmod>2021-06-03T16:44:06+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://richard-cokecola.github.io/re-richard/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://richard-cokecola.github.io/re-richard/about/"
+                />
   </url>
 </urlset>
