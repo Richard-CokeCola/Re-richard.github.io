@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>美食 on Re-Richard</title>
+    <title> 美食 on Re-Richard</title>
     <link>https://richard-cokecola.github.io/re-richard/tags/%E7%BE%8E%E9%A3%9F/</link>
-    <description>Recent content in 美食 on Re-Richard</description>
+    <description>Recent content in  美食 on Re-Richard</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Fri, 05 Jan 2024 14:58:55 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jan 2024 10:27:09 +0800</lastBuildDate>
     <atom:link href="https://richard-cokecola.github.io/re-richard/tags/%E7%BE%8E%E9%A3%9F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Richard‘s 蛋黄酱意面菜谱</title>
+      <link>https://richard-cokecola.github.io/re-richard/posts/richards-%E8%9B%8B%E9%BB%84%E9%85%B1%E6%84%8F%E9%9D%A2%E8%8F%9C%E8%B0%B1/</link>
+      <pubDate>Mon, 22 Jan 2024 10:27:09 +0800</pubDate>
+      <guid>https://richard-cokecola.github.io/re-richard/posts/richards-%E8%9B%8B%E9%BB%84%E9%85%B1%E6%84%8F%E9%9D%A2%E8%8F%9C%E8%B0%B1/</guid>
+      <description>Pasta alla Carbonara 制作时间 半个小时左右 所需原料 意面，培根（正宗的应该是用烟熏猪脸肉），鸡蛋黄，帕玛森芝士，黑胡椒 烹饪步骤 起锅烧水煮面。面水里加盐，水开下</description>
+    </item>
     <item>
       <title>Richard&#39;s 白酱意面菜谱</title>
       <link>https://richard-cokecola.github.io/re-richard/posts/richards-%E7%99%BD%E9%85%B1%E6%84%8F%E9%9D%A2%E8%8F%9C%E8%B0%B1/</link>
